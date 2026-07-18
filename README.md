@@ -1,4 +1,12 @@
-## Hi there 👋
+# Olá, meu nome é **Rafael Rödel**
+
+Sou estudante de Ti, atualmente no quarto semestre, programador FullStack
+Minhas principais linguagens:
+
+- React
+- JavaScript
+- Java
+
 
 <!--
 **Rafael-Rodel/Rafael-Rodel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
