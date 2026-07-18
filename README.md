@@ -1,11 +1,14 @@
 # Olá, meu nome é **Rafael Rödel**
 
 Sou estudante de Ti, atualmente no quarto semestre, programador FullStack
-Minhas principais linguagens:
+## Minhas skills:
 
+- HTML
+- CSS
 - React
 - JavaScript
 - Java
+
 
 
 <!--
